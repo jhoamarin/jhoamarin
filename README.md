@@ -14,22 +14,11 @@ Estoy comprometida con la mejora continua y la actualizaci√≥n constante en las √
 
 
 
-<!-- stats and streak-stats -->
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimcostDev&theme=github_dark" alt="streak-stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JimcostDev&theme=github_dark" alt="Stats">
-</div>
-
-<!-- top langs -->
-![](https://github-readme-stats.vercel.app/api/top-langs?username=JimcostDev&show_icons=true&locale=en&layout=compact&theme=github_dark) 
-
-
 ## Puedes encontrarme en: :handshake:
 
 <!-- Enlaces de contacto -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JimcostDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ronaldo-jimenez)
-[![Web](https://img.shields.io/badge/Web-JimcostDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jimcostdev.com)
-[![YouTube](https://img.shields.io/badge/YouTube-JimcostDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@jimcostdev)
+[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/jhoanny-mar%C3%ADn-888028134/)
+[![Behance](https://www.behance.net/jhoamarincode)
 
 # Proyectos
 
