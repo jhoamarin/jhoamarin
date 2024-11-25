@@ -17,8 +17,8 @@ Estoy comprometida con la mejora continua y la actualizaci√≥n constante en las √
 ## Puedes encontrarme en: :handshake:
 
 <!-- Enlaces de contacto -->
-[![LinkedIn](https://www.linkedin.com/in/jhoanny-mar%C3%ADn-888028134/)
-[![Behance](https://www.behance.net/jhoamarincode)
+[![LinkedIn]](https://www.linkedin.com/in/jhoanny-mar%C3%ADn-888028134/)
+[![Behance]](https://www.behance.net/jhoamarincode)
 
 
 <!---
