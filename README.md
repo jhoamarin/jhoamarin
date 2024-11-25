@@ -1,5 +1,5 @@
 # Hello, I am Jhoanny Marín 👋🏻
-# Software Engineer & Web Developer
+Software Engineer & Web Developer
 <!-- banner -->
 
 <!-- frase de EGW -->
