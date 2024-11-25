@@ -12,8 +12,7 @@ Apasionada por el desarrollo de soluciones tecnológicas innovadoras. Mi capacid
 Estoy comprometida con la mejora continua y la actualización constante en las últimas tendencias tecnológicas, lo que me permite proponer soluciones creativas y eficientes. Busco contribuir a proyectos desafiantes donde pueda aplicar mis conocimientos y experiencia en el desarrollo y gestión de sistemas, garantizando la calidad del producto final.
 
 
-<!-- Trofeos y estadísticas de GitHub -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JimcostDev&&theme=github_dark" alt="jimcostdev" /></a> </p>
+
 
 <!-- stats and streak-stats -->
 <div style="display: flex; flex-direction: row;">
